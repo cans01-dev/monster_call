@@ -1,0 +1,16 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "axios": "^1.6.4"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.3",
+        "webpack": "^5.91.0",
+        "webpack-cli": "^5.1.4"
+    }
+}
